@@ -1,6 +1,6 @@
 def using_times
 	loop do
-	  puts 
+	  puts  "Wingardium Leviosa"
 end
 
 
